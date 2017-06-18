@@ -16,23 +16,29 @@ In picture above complete application structure is describe. All application run
 ![alt text](https://github.com/realdatasensor/1Msongs/blob/master/Untitled%20Diagram.png)
 
 
-#DOCKER
+# DOCKER
 
 Docker container is established in UBUNTU environment
 
-#Micro service applications
+GPU
+
+GPU acceleration functions are also allocated under Docker
+
+# Micro service applications
 
 Applications run as microservice and communicate with REST api 
 
-#RESTapi description
+# RESTapi description
 
-#Sound qauntization
+# SQL database
 
-#SOM analyze 
+Application
 
+# Sound qauntization
 
+# SOM analyze 
 
-#Visualization 
+# Visualization 
 
 U-Matrix
 
