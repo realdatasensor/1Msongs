@@ -32,13 +32,13 @@ Applications run as microservice and communicate with REST api
 
 # SQL database
 
-Application
+## Applications
 
-# Sound qauntization
+#Sound qauntization
 
-# SOM analyze 
+#SOM analyze 
 
-# Visualization 
+#Visualization 
 
 U-Matrix
 
