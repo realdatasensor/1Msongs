@@ -3,14 +3,14 @@
 
 # DESCRIPTION
 
-In this experimental exercise SOM (Self Organized Maps) algrithms are used to genarate visual mapping from inroduced music.
+In this experimental exercise SOM (Self Organized Maps) algorithms are used to generate visual mapping from introduced music.
 
 ........
 
 ## Analytics in container model
 
 
-In picture above complete application structure is describe. All application run as microservice and whole servece run under docker container environment. Cause of needed additional processing power application are acclerated with GPU prosessors to have more calculation power  
+In the picture above complete application structure is described. All applications run as micro service and whole service run under docker container environment. Cause of needed additional processing power application is accelerated with GPU processes to have more calculation power. 
 
 
 ![alt text](https://github.com/realdatasensor/1Msongs/blob/master/Untitled%20Diagram.png)
@@ -22,7 +22,7 @@ Docker container is established in UBUNTU environment
 
 GPU
 
-GPU acceleration functions are also allocated under Docker
+GPU acceleration functions are also allocated under Docker. 
 
 # Micro service applications
 
