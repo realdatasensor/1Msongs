@@ -7,7 +7,7 @@ In this experimental exercise SOM (Self Organized Maps) algrithms are used to ge
 
 ........
 
-## Analytic in container model
+## Analytics in container model
 
 
 In picture above complete application structure is describe. All application run as microservice and whole servece run under docker container environment. Cause of needed additional processing power application are acclerated with GPU prosessors to have more calculation power  
@@ -16,19 +16,23 @@ In picture above complete application structure is describe. All application run
 ![alt text](https://github.com/realdatasensor/1Msongs/blob/master/Untitled%20Diagram.png)
 
 
-# DOCKER
+#DOCKER
 
 Docker container is established in UBUNTU environment
 
-# Micro service applications
+#Micro service applications
 
-# Sound qauntization
+Applications run as microservice and communicate with REST api 
 
-# SOM analyze 
+#RESTapi description
+
+#Sound qauntization
+
+#SOM analyze 
 
 
 
-# Visualization 
+#Visualization 
 
 U-Matrix
 
